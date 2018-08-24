@@ -1,0 +1,237 @@
+OpenGL vendor string:   VMware, Inc.
+OpenGL renderer string: Gallium 0.4 on SVGA3D; build: RELEASE;  LLVM;
+OpenGL version string:  3.0 Mesa 17.0.7
+
+Not software rendered:    [32;01myes[00m
+Not blacklisted:          [32;01myes[00m
+GLX fbconfig:             [32;01myes[00m
+GLX texture from pixmap:  [32;01myes[00m
+GL npot or rect textures: [32;01myes[00m
+GL vertex program:        [32;01myes[00m
+GL fragment program:      [32;01myes[00m
+GL vertex buffer object:  [32;01myes[00m
+GL framebuffer object:    [32;01myes[00m
+GL version is 1.4+:       [32;01myes[00m
+
+Unity 3D supported:       [32;01myes[00m
+Using compiz profile 'ubuntu'
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Starting plugin: opengl
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2018-08-23 05:10:58 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+WARN  2018-08-23 05:10:58 unity.debug.interface DebugDBusInterface.cpp:217 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: cannot open shared object file: No such file or directory -- full D-Bus introspection will not be available
+WARN  2018-08-23 05:10:59 xim.controller XIMController.cpp:103 IBus natively supported.
+WARN  2018-08-23 05:10:59 unity.dash.gsettingsscopereader GSettingsScopes.cpp:108 Error fetching protocol metadata for scope: social.scope : Valid key file could not be found in search dirs
+WARN  2018-08-23 05:10:59 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2018-08-23 05:10:59 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2018-08-23 05:10:59 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2018-08-23 05:10:59 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2018-08-23 05:10:59 unity.glib.dbus.server GLibDBusServer.cpp:593 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+ERROR 2018-08-23 05:11:00 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'org.gnome.Shell'
+ERROR 2018-08-23 05:11:00 unity.glib.dbus.server GLibDBusServer.cpp:538 DBus name lost 'com.canonical.Unity'
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+WARN  2018-08-23 05:11:00 unity.key.gnome.grabber GnomeKeyGrabber.cpp:108 Trying to grab a disabled action, we skip it
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+WARN  2018-08-23 05:11:10 unity.iconloader IconLoader.cpp:756 Unable to load icon file:/// at size -1x22: Can't open directory
+ERROR 2018-08-23 05:11:11 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-08-23 05:11:11 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x2ad3eb0 at position 5. The row has probably been removed
+ERROR 2018-08-23 05:11:11 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x2ad3eb0 holds a NULL value in row 5
+(gnome-language-selector:5056): Gtk-DEBUG: Connecting to session manager
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+[]
+[<Package: name:'language-pack-zh-hant-base' architecture='amd64' id:2076>, <Package: name:'language-pack-gnome-zh-hans-base' architecture='amd64' id:4263>, <Package: name:'fcitx-config-common' architecture='amd64' id:1826>, <Package: name:'fcitx-pinyin' architecture='amd64' id:1860>, <Package: name:'fcitx-module-kimpanel' architecture='amd64' id:1842>, <Package: name:'language-pack-zh-hans-base' architecture='amd64' id:2074>, <Package: name:'libchewing3' architecture='amd64' id:3490>, <Package: name:'libreoffice-l10n-zh-cn' architecture='amd64' id:7231>, <Package: name:'libreoffice-l10n-zh-tw' architecture='amd64' id:7234>, <Package: name:'firefox-locale-zh-hans' architecture='amd64' id:2073>, <Package: name:'firefox-locale-zh-hant' architecture='amd64' id:2075>, <Package: name:'libpresage1v5' architecture='amd64' id:1850>, <Package: name:'fcitx-frontend-qt4' architecture='amd64' id:1833>, <Package: name:'fcitx-frontend-qt5' architecture='amd64' id:1834>, <Package: name:'sunpinyin-data' architecture='amd64' id:3497>, <Package: name:'fcitx-bin' architecture='amd64' id:1809>, <Package: name:'presage' architecture='amd64' id:6791>, <Package: name:'fcitx-module-cloudpinyin' architecture='amd64' id:1841>, <Package: name:'fcitx-data' architecture='amd64' id:1810>, <Package: name:'fcitx' architecture='amd64' id:1808>, <Package: name:'libpresage-data' architecture='amd64' id:6790>, <Package: name:'thunderbird-locale-zh-hans' architecture='amd64' id:11625>, <Package: name:'thunderbird-locale-zh-hant' architecture='amd64' id:11626>, <Package: name:'libchewing3-data' architecture='amd64' id:4880>, <Package: name:'fcitx-table' architecture='amd64' id:1861>, <Package: name:'thunderbird-locale-zh-cn' architecture='amd64' id:11624>, <Package: name:'thunderbird-locale-zh-tw' architecture='amd64' id:11627>, <Package: name:'libfcitx-qt5-1' architecture='amd64' id:1837>, <Package: name:'libfcitx-qt0' architecture='amd64' id:1830>, <Package: name:'fonts-arphic-ukai' architecture='amd64' id:2098>, <Package: name:'libfcitx-core0' architecture='amd64' id:1823>, <Package: name:'libqt5quickwidgets5' architecture='amd64' id:1866>, <Package: name:'fcitx-chewing' architecture='amd64' id:27358>, <Package: name:'fonts-arphic-uming' architecture='amd64' id:2101>, <Package: name:'fcitx-ui-classic' architecture='amd64' id:1816>, <Package: name:'fcitx-table-cangjie' architecture='amd64' id:27374>, <Package: name:'fcitx-ui-qimpanel' architecture='amd64' id:1864>, <Package: name:'fcitx-config-gtk' architecture='amd64' id:1812>, <Package: name:'fcitx-frontend-gtk2' architecture='amd64' id:1831>, <Package: name:'fcitx-frontend-gtk3' architecture='amd64' id:1832>, <Package: name:'fcitx-module-lua' architecture='amd64' id:1846>, <Package: name:'libtinyxml2.6.2v5' architecture='amd64' id:6795>, <Package: name:'libreoffice-help-zh-cn' architecture='amd64' id:7230>, <Package: name:'fcitx-modules' architecture='amd64' id:1811>, <Package: name:'libreoffice-help-zh-tw' architecture='amd64' id:7233>, <Package: name:'language-pack-gnome-zh-hans' architecture='amd64' id:4262>, <Package: name:'language-pack-gnome-zh-hant' architecture='amd64' id:4269>, <Package: name:'fcitx-frontend-all' architecture='amd64' id:1814>, <Package: name:'libsunpinyin3v5' architecture='amd64' id:3496>, <Package: name:'fcitx-sunpinyin' architecture='amd64' id:27361>, <Package: name:'fcitx-module-x11' architecture='amd64' id:1848>, <Package: name:'fcitx-module-dbus' architecture='amd64' id:1835>, <Package: name:'language-pack-zh-hans' architecture='amd64' id:4264>, <Package: name:'language-pack-zh-hant' architecture='amd64' id:4271>, <Package: name:'language-pack-gnome-zh-hant-base' architecture='amd64' id:4270>, <Package: name:'fcitx-table-wubi' architecture='amd64' id:27362>]
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+debconf: DbDriver "passwords" warning: could not open /var/cache/debconf/passwords.dat: Permission denied
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+
+** (unity-webapps-runner:7592): WARNING **: Could not get a proper accuracy from Geoclue (NONE)
+** Message: Launching webapp container for url 'http://www.amazon.com/?tag=u1webapp-20' and app_id 'ubuntu-amazon-default (command line 'webapp-container --app-id='ubuntu-amazon-default' --webapp --enable-back-forward   http://www.amazon.com/?tag=u1webapp-20')
+Invalid webapp webapp definition: homepage not found or fails predicate isString
+Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
+qml: Loading webview on /home/tanggongcheng/.local/share/ubuntu-amazon-default
+Invalid webapp webapp definition: homepage not found or fails predicate isString
+Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
+QQmlExpression: Expression file:///usr/share/webbrowser-app/webcontainer/WebApp.qml:273:25 depends on non-NOTIFYable properties:
+    unity::action::qml::ActionManager::globalContext
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[0823/053440.497274:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+qml: Loaded 8 UA override(s) from file:///usr/lib/x86_64-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-mobile.js
+OxideQQuickWebView: canGoForward is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+OxideQQuickWebView: canGoBack is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+qml: Start browsing
+file:///usr/share/webbrowser-app/webcontainer/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webcontainer/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+qml: Loaded 8 UA override(s) from file:///usr/lib/x86_64-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+(soffice:7694): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:7708): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:7708): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+[0823/053451.325001:ERROR:oxide_user_script_slave.cc(116)] Could not get a proper message manager for frame: 0x1243290e1df0 while trying to inject script in main world
+[0823/053451.689264:ERROR:oxide_user_script_slave.cc(116)] Could not get a proper message manager for frame: 0x12432918c998 while trying to inject script in main world
+context mismatch in svga_sampler_view_destroy
+WARN  2018-08-23 05:35:02 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 1
+WARN  2018-08-23 05:35:02 unity.a11y.expanderview unity-expander-view-accessible.cpp:185 has_focus = 0
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+ERROR 2018-08-23 06:00:22 unityfree <unknown>:0 g_sequence_get: assertion '!is_end (iter)' failed
+ERROR 2018-08-23 06:00:22 unity null <unknown>:0 Unable to get value. NULL row data in DeeSequenceModel@0x2ad3eb0 at position 37. The row has probably been removed
+ERROR 2018-08-23 06:00:22 unity null <unknown>:0 Unable to get string. Column 5 in DeeSequenceModel@0x2ad3eb0 holds a NULL value in row 37
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+1535092024784	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing languages: An unexpected property was found in the WebExtension manifest.
+1535092024785	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing langpack_id: An unexpected property was found in the WebExtension manifest.
+1535092024785	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sources: An unexpected property was found in the WebExtension manifest.
+1535092024796	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1535092024797	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1535092024802	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing languages: An unexpected property was found in the WebExtension manifest.
+1535092024803	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing langpack_id: An unexpected property was found in the WebExtension manifest.
+1535092024803	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sources: An unexpected property was found in the WebExtension manifest.
+1535092024811	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not correctly signed.
+1535092024811	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not correctly signed.
+1535092024817	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing languages: An unexpected property was found in the WebExtension manifest.
+1535092024818	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing langpack_id: An unexpected property was found in the WebExtension manifest.
+1535092024818	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sources: An unexpected property was found in the WebExtension manifest.
+1535092024839	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1535092024839	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1535092024842	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing languages: An unexpected property was found in the WebExtension manifest.
+1535092024843	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing langpack_id: An unexpected property was found in the WebExtension manifest.
+1535092024843	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sources: An unexpected property was found in the WebExtension manifest.
+1535092024854	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not correctly signed.
+1535092024855	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not correctly signed.
+1535092025198	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1535092025199	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not compatible with application version.
+1535092025199	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1535092025200	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not compatible with application version.
+1535092025204	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1535092025204	addons.xpi	WARN	Add-on langpack-zh-CN@firefox.mozilla.org is not correctly signed.
+1535092025204	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1535092025205	addons.xpi	WARN	Add-on langpack-zh-TW@firefox.mozilla.org is not correctly signed.
+
+** (unity-webapps-runner:18003): WARNING **: Could not get a proper accuracy from Geoclue (NONE)
+** Message: Launching webapp container for url 'http://www.amazon.com/?tag=u1webapp-20' and app_id 'ubuntu-amazon-default (command line 'webapp-container --app-id='ubuntu-amazon-default' --webapp --enable-back-forward   http://www.amazon.com/?tag=u1webapp-20')
+Invalid webapp webapp definition: homepage not found or fails predicate isString
+Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
+qml: Loading webview on /home/tanggongcheng/.local/share/ubuntu-amazon-default
+Invalid webapp webapp definition: homepage not found or fails predicate isString
+Could not open manifest file:  "/usr/share/unity-webapps/userscripts/unity-webapps-amazon/manifest.json"
+QQmlExpression: Expression file:///usr/share/webbrowser-app/webcontainer/WebApp.qml:273:25 depends on non-NOTIFYable properties:
+    unity::action::qml::ActionManager::globalContext
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[0823/232718.368021:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+qml: Loaded 8 UA override(s) from file:///usr/lib/x86_64-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-mobile.js
+OxideQQuickWebView: canGoForward is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+OxideQQuickWebView: canGoBack is deprecated. Please use the API provided by OxideQQuickNavigationHistory instead
+qml: Start browsing
+file:///usr/share/webbrowser-app/webcontainer/ContentPickerDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/webcontainer/ContentDownloadDialog.qml:22:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/ContentHandler.qml:20:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:23:1: module "Ubuntu.Content" is not installed
+file:///usr/share/webbrowser-app/Downloader.qml:22:1: module "Ubuntu.DownloadManager" is not installed
+qml: Loaded 8 UA override(s) from file:///usr/lib/x86_64-linux-gnu/qt5/qml/Ubuntu/Web/ua-overrides-desktop.js
+[0823/232724.875514:ERROR:oxide_user_script_slave.cc(116)] Could not get a proper message manager for frame: 0x111f0500b140 while trying to inject script in main world
+[0823/232728.056208:ERROR:oxide_user_script_slave.cc(116)] Could not get a proper message manager for frame: 0x111f05003720 while trying to inject script in main world
+[0823/232729.820400:ERROR:nss_ocsp.cc(591)] No URLRequestContext for NSS HTTP handler. host: ocsp.pki.goog
+[0823/232729.820484:ERROR:nss_ocsp.cc(591)] No URLRequestContext for NSS HTTP handler. host: crl.pki.goog
+[0823/232729.821227:ERROR:nss_ocsp.cc(591)] No URLRequestContext for NSS HTTP handler. host: ocsp.pki.goog
+[0823/232729.821265:ERROR:nss_ocsp.cc(591)] No URLRequestContext for NSS HTTP handler. host: ocsp.pki.goog
+[0823/232729.821280:ERROR:nss_ocsp.cc(591)] No URLRequestContext for NSS HTTP handler. host: crl.pki.goog
+context mismatch in svga_sampler_view_destroy
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed

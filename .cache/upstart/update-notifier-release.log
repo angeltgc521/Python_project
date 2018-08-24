@@ -1,0 +1,4 @@
+Thu Aug 23 05:10:48 PDT 2018 new release available
+/usr/lib/ubuntu-release-upgrader/check-new-release-gtk:30: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
